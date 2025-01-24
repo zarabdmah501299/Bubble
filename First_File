@@ -1,2 +1,25 @@
 cout("Zaryab Kashif");
 cout("24-ST-002);
+cout("ICS Subjects");
+cout("Urdu");
+cout("English");
+cout("Quran translation"):
+cout("Physics");
+cout("Computer");
+cout("Pak study");
+cout("Islamiyat");
+cout("Semester 1 Subjects");
+cout("Calculus and Analytical Geometry");
+cout("islamic studies");
+cout("Applied Physics");
+cout("Environment,Health and Safety");
+cout("Computer Programming");
+cout("Information and Technology");
+cout("Semester 2 Subjects");
+cout("Object  Oriented Programming");
+cout("Probability and Statistics");
+cout("Quran Translation");
+cout("Software development life cycle");
+cout("Discrete Structures");
+cout("Software Configuration Managment");
+cout("Functional English");
